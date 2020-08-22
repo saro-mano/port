@@ -21,7 +21,11 @@ html {
 }
 
 .headline{
+<<<<<<< HEAD
   margin-left: 125px;
+=======
+  margin-left: 110px;
+>>>>>>> 609f80b0dab337747241039d5e43a256740678e7
 }
 
 h1,
